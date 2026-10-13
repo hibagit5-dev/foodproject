@@ -9,6 +9,7 @@ if(!isset($_SESSION['user_id']) || $_SESSION['role'] != 'donor') {
 <html>
 <head>
     <title>Donor Dashboard</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h2>Welcome, <?php echo $_SESSION['fullname']; ?>! (Food Donor Port)</h2>

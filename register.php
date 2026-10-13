@@ -2,6 +2,8 @@
 <html>
 <head>
     <title>Create an Account</title>
+<link rel="stylesheet" href="style.css">
+
 </head>
 <body>
     <h2>Register for Food Redistribution</h2>

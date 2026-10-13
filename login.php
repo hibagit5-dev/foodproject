@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Login - Food Surplus Platform</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h2>Login to Your Account</h2>
